@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 📫 Reach me at: paul.teufel@web.de
+- 🔭 I’m currently working on Carbon Capture and Storage
+- 👯 I’m looking to collaborate on Climate things
+- 🤔 I’m looking for help with chemistry and oceanology
+- 📫 Reach me at: mail@paulteufel.com
 <!--
 **paulttt/paulttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Reach me at: paul.teufel@web.de
+- 📫 Reach me at: mail@paulteufel.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
