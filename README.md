@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Carbon Capture and Storage
+- 🔭 I’m currently working on Carbon Dioxide Removal (CDR)
 - 👯 I’m looking to collaborate on Climate things
 - 🤔 I’m looking for help with chemistry and oceanology
 - 📫 Reach me at: mail@paulteufel.com
